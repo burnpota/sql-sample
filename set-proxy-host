@@ -1,0 +1,1 @@
+update querypie.proxies set host='taem-proxy.querypie-pe.pro' where id=1;
